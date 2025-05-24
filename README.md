@@ -6,6 +6,9 @@ Prototype implementation of grid of tokens representation for Transformers
 - Early tests on synthetic data show improved token prediction accuracy
 - Seeks collaboration to apply to real-world benchmarks
 
+## Motivation
+Transformer base model has to learn and to re-learn many things from scratch. Some of these studies are c
+
 ## How It Works
 
 This research proposes to enrich Transformer’s input, interim and output representations from the _unidirectional sequence of tokens_ to the _grid of tokens_ (see the illustration below).
