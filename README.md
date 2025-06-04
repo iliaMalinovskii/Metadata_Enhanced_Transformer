@@ -37,14 +37,9 @@ MetatokenA|MetatokenB|MetatokenC|Metatoken...
 - Optimal architecture
 - Valuable meta data origination incl. RL
 - Proof-of-concept at industry grade models
-
-## Structure
-- `model/` — Core implementation
-- `data/` — Sample toy datasets
-- `results/` — Logs
   
 ## Experiment overview:
-- Plain data set - fairy tales corpus from Kaggle
+- Plain data set - fairy tales corpus from Kaggle; stored in archive.zip
 - Transformer implementation is based on A. Karpathy's; it is character based
 - First metadata set - list of often used morphemes
 - Second metadata set - part of speech, determined by NLTK function
