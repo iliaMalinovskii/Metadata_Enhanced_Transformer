@@ -38,7 +38,7 @@ MetatokenA|MetatokenB|MetatokenC|Metatoken...
 - Valuable meta data origination incl. RL
 - Proof-of-concept at industry grade models
   
-## Experiment overview:
+## Experiment overview
 - Plain data set - fairy tales corpus from Kaggle; stored in archive.zip
 - Transformer implementation is based on A. Karpathy's; it is character based
 - First metadata set - list of often used morphemes
